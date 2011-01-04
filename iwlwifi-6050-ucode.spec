@@ -1,7 +1,7 @@
 %define name iwlwifi-6050-ucode
 %define version 41.28.5.1
 %define version_api4 9.201.4.1
-%define release %mkrel 1
+%define release %mkrel 2
 
 Summary: Intel PRO/Wireless 6050AGN microcode
 Name:	 %{name}
