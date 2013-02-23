@@ -1,3 +1,3 @@
 sources:
-  "iwlwifi-6050-ucode-41.28.5.1.tgz:"	3e3f426cfe6a6451ab236a73458e2d7b9edac141
-  "iwlwifi-6050-ucode-9.201.4.1.tgz:"	5f9620624344e17ebf0d7b7f4b10de4dfd469c4e
+  iwlwifi-6050-ucode-41.28.5.1.tgz: 3e3f426cfe6a6451ab236a73458e2d7b9edac141
+  iwlwifi-6050-ucode-9.201.4.1.tgz: 5f9620624344e17ebf0d7b7f4b10de4dfd469c4e
